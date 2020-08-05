@@ -1,0 +1,397 @@
+<resources>
+    <string name="app_name">TimeTable Demo</string>
+
+    <string-array name="Main">
+        <item>TimeTable</item>
+        <item>Subject</item>
+        <item>Faculty</item>
+        <item>Resources</item>
+        <item>Events</item>
+    </string-array>
+    <string-array name="Description">
+        <item>A plan of the times when particular classes are to take place.</item>
+        <item>All the required Subjects are available,Checkout as per your Requirement</item>
+        <item>Body of educators,i.e. professors, or teachers,whose aim is to impart knowledge to the learners</item>
+        <item>Good notes can provide a great resource for creating outlines and studying.</item>
+        <item>All the App settings can be configured here</item>
+
+    </string-array>
+    <string-array name="Week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item>Physics</item>
+        <item>PPL</item>
+        <item>PPS</item>
+        <item>Chemistry</item>
+        <item>Essence of TK</item>
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item>Physics</item>
+        <item>PPL</item>
+        <item>PPS</item>
+        <item>Chemistry</item>
+        <item>Essence of TK</item>
+    </string-array>
+    <string-array name="Wednesday">
+        <item>Physics</item>
+        <item>PPL</item>
+        <item>PPS</item>
+        <item>Chemistry</item>
+        <item>Essence of TK</item>
+    </string-array>
+    <string-array name="Thursday">
+        <item>Physics</item>
+        <item>PPL</item>
+        <item>PPS</item>
+        <item>Chemistry</item>
+        <item>Essence of TK</item>
+    </string-array>
+    <string-array name="Friday">
+        <item>Physics</item>
+        <item>PPL</item>
+        <item>PPS</item>
+        <item>Chemistry</item>
+        <item>Essence of TK</item>
+    </string-array>
+    <string-array name="Saturday">
+        <item>Physics</item>
+        <item>PPL</item>
+        <item>PPS</item>
+        <item>Chemistry</item>
+        <item>Essence of TK</item>
+    </string-array>
+    <string-array name="Time1">
+        <item>10:00AM-11:00AM</item>
+        <item>11:00AM-12:00PM</item>
+        <item>12:00PM-1:00PM</item>
+        <item>2:00PM-3:00PM</item>
+        <item>3:00PM-4:00PM</item>
+    </string-array>
+    <string-array name="Time2">
+        <item>10:00AM-11:00AM</item>
+        <item>11:00AM-12:00PM</item>
+        <item>12:00PM-1:00PM</item>
+        <item>2:00PM-3:00PM</item>
+        <item>3:00PM-4:00PM</item>
+    </string-array>
+
+    <string-array name="Time3">
+        <item>10:00AM-11:00AM</item>
+        <item>11:00AM-12:00PM</item>
+        <item>12:00PM-1:00PM</item>
+        <item>2:00PM-3:00PM</item>
+        <item>3:00PM-4:00PM</item>
+    </string-array>
+
+    <string-array name="Time4">
+        <item>10:00AM-11:00AM</item>
+        <item>11:00AM-12:00PM</item>
+        <item>12:00PM-1:00PM</item>
+        <item>2:00PM-3:00PM</item>
+        <item>3:00PM-4:00PM</item>
+    </string-array>
+
+    <string-array name="Time5">
+        <item>10:00AM-11:00AM</item>
+        <item>11:00AM-12:00PM</item>
+        <item>12:00PM-1:00PM</item>
+        <item>2:00PM-3:00PM</item>
+        <item>3:00PM-4:00PM</item>
+    </string-array>
+
+    <string-array name="Time6">
+        <item>10:00AM-11:00AM</item>
+        <item>11:00AM-12:00PM</item>
+        <item>12:00PM-1:00PM</item>
+        <item>2:00PM-3:00PM</item>
+        <item>3:00PM-4:00PM</item>
+    </string-array>
+
+    <string-array name="Subjects">
+        <item>Data Structures</item>
+        <item>Mathematics III</item>
+        <item>Discrete Mathematics</item>
+        <item>Basic Electronics Eng</item>
+        <item>Logic Switching Theory</item>
+        <item>Environmental Science</item>
+    </string-array>
+    <string-array name="DataStructures">
+        <item>Unit1</item>
+        <item>Unit2</item>
+        <item>Unit3</item>
+        <item>Unit4</item>
+        <item>Unit5</item>
+        <item>Books</item>
+    </string-array>
+
+    <string-array name="MathematicsIII">
+        <item>
+           Functions of Complex Variables: Limits and continuity of function, differentiability and
+
+analyticity, necessary  sufficient conditions for a function to be analytic, Cauchy-
+Reimann equations in polar form, harmonic functions, complex integration, Cauchy’s
+
+integral theorem, extension of Cauchy’s integral theorem for multiply connected regions,
+Cauchy’s integral formula, Cauchy’s formula for derivatives and their applications.
+        </item>
+        <item>
+            Residue Calculus: Power series, Taylor’s series, Laurent’s series, zeros and singularities,
+residues, residue theorem, evaluation of real integrals using residue theorem, bilinear
+transformation, and conformal mapping.
+        </item>
+        <item>
+Fourier Series: Fourier series, Fourier series expansions of even and odd functions,
+convergence of Fourier series, and Fourier half range series.
+        </item>
+        <item>
+Partial Differential Equations: Formation of first and second order partial differential
+equations, solution of first order equations, Lagrange’s equation, Nonlinear first order
+equations, Charpit’s method, higher order linear equations with constant coefficients.
+        </item>
+        <item>
+Fourier Series Applications to Partial Differential Equations: Classification of linear
+second order partial differential equations, Separation of variables method (Fourier
+method), Fourier series solution of one dimensional heat and wave equations, Laplace’s
+    </item>
+        <item>
+R.K.Jain S.R.K Iyengar, Advanced Engineering Mathematics, Narosa
+Publication, 4
+
+th Edition, 2014.
+
+2. B.S.Grewal, Higher Engineering Mathematics, Khanna Publications, 43rd
+Edition, 2014.
+. 3. Gupta Kapoor, Fundamentals of Mathematical Statistics, Sultan Chand
+        </item>
+    </string-array>
+
+    <string-array name="DiscreteMathematics">
+        <item>
+            Fundamentals of Logic: Basic Connectives and Truth Tables, Logical Equivalence,
+Logical Implication, Use of Quantifiers, Definitions and the Proof of Theorems.
+Set Theory: Set and Subsets, Set Operations, and the Laws of Set theory, Counting and
+Venn Diagrams.
+Properties of the Integers: The well – ordering principle, Recursive Definitions, Division
+Algorithms, Fundamental theorem of Arithmetic.
+        </item>
+        <item>
+Relations and Functions: Cartesian Product, Functions onto Functions, Special Functions,
+Pigeonhole Principle, Composition and Inverse Functions, Computational Complexity.
+Relations: Partial Orders, Equivalence Relations and Partitions.
+Principle of Inclusion and Exclusion: Principles of Inclusion and
+Exclusion, Generalization of Principle, Derangements, Rock Polynomials, Arrangements
+with Forbidden Positions.
+        </item>
+        <item>
+Generating Functions: Introductory Examples, Definition And Examples, Partitions Of
+Integers, Exponential Generating Function, Summation Operator.
+Recurrence Relations: First – order linear recurrence relation, second – order linear
+homogenous recurrence relation with constant coefficients, Non homogenous recurrence
+relation, divide and conquer algorithms.
+        </item>
+        <item>
+Algebraic Structures: Algebraic System – General Properties, Semi Groups, Monoids,
+Homomorphism, Groups, Residue Arithmetic, Group Codes and their Applications.
+        </item>
+        <item>
+Graph Theory: Definitions and examples, subgraphs, complements and graph
+Isomorpshim, Vertex degree, Planar graphs, Hamiltonian paths and Cycles, Graph
+Coloring, Euler  Hamiltonian graphs, and Chromatic number.
+Trees: Definitions, properties and Examples, Rooted Trees, Spanning Trees and Minimum
+Spanning Trees.
+        </item>
+        <item>
+Tremblay J P, and Manohar R, Discrete Mathematical Structures with Applications
+to Computer Science, Tata McGraw Hill Education, 2001.
+2. Shanker Rao G, Mathematical Foundations of Computer Science,
+I K International Publishing House Pvt. Ltd., 2006.
+3. Mott Joe L Mott, Abraham Kandel, and Theodore P Baker,
+        </item>
+    </string-array>
+
+    <string-array name="BasicElectronicsEng">
+        <item>
+            Semi Conductor Theory: Energy Levels, Intrinsic and Extrinsic Semiconductors,
+Mobility, Diffusion and Drift current. Hall Effect, Characteristics of P-N Junction diode,
+Parameters and Applications.
+Rectifiers: Half wave and Full wave Rectifiers (Bridge, center tapped) with and without
+filters, ripple regulation and efficiency. Zener diode regulator.
+        </item>
+        <item>
+Bipolar Junction Transistor: BJT, Current components, CE, CB, CC configurations,
+characteristics, Transistor as amplifier. Analysis of CE,CB,CC Amplifiers(qualitative
+treatment only).
+        </item>
+        <item>
+Feedback Concepts – Properties of Negative Feedback Amplifiers, Classification,
+Parameters .
+Oscillators – Barkhausen Criterion, LC Type and RC Type Oscillators and Crystal
+Oscillators. (Qualitative treatment only)
+        </item>
+        <item>
+Operational Amplifiers – Introduction to OP Amp, characteristics and applications –
+Inverting and Non-inverting Amplifiers, Summer, Integrator, Differentiator,
+Instrumentation Amplifier.
+Digital Systems: Basic Logic Gates, half, Full Adder and Subtractors.
+        </item>
+        <item>
+Data Acquisition systems: Study of transducer (LVDT, Strain gauge, Temperature,
+Force).
+Photo Electric Devices and Industrial Devices: Photo diode, Photo Transistor, LED,
+LCD, SCR, UJT Construction and Characteristics only.
+Display Systems: Constructional details of C.R.O and Applications.
+        </item>
+        <item>
+Jocob Millman, Christos C. Halkias and Satyabrata Jit, Electronics Devices and
+Circuits”, 3rd Edition, McGraw Hill Education (India) Private Limited, 2010.
+2. Rama Kanth A. Gaykward, Op-AMPS and Linear Integrated Circuits, 4
+th Edition
+
+Prentice Hall of India, 2000.
+3. M. Morris Mano, Digital Design, 3rdEdition, Prentice Hall of India, 2002.
+        </item>
+    </string-array>
+
+    <string-array name="LogicSwitchingTheory">
+        <item>
+            Boolean Algebra: Axiomatic definition of Boolean Algebra Operators, Postulates and
+Theorems, Boolean Functions, Canonical Forms and Standard Forms, Simplification of
+Boolean Functions Using Theorems and Karnaugh Map Method.
+        </item>
+        <item>
+Minimization of Switching Functions: Quine-McCluskey Tabular Method,
+Determination of Prime Implicants and Essential Prime Implicants.
+Combinational Logic Design: Single-Output and Multiple-Output Combinational Circuit
+Design, AND-OR, OR-AND and NAND/NOR Realizations, Exclusive-OR and
+Equivalence functions.
+        </item>
+        <item>
+Design of Combinational Logic Circuits: Gate Level design of Small Scale Integration
+(SSI) circuits, Modular Combinational Logic Elements- Decoders, Encoders, Priority
+encoders, Multiplexers and De-multiplexers.
+Design of Integer Arithmetic Circuits using Combinational Logic: Integer Adders –
+Binary Adders, Subtractors, Ripple Carry Adder and Carry Look Ahead Adder, and Carry
+Save Adders.
+        </item>
+        <item>
+Design of Combinational Circuits using Programmable Logic Devices (PLDs):
+Programmable Read Only Memories (PROMs), Programmable Logic Arrays (PLAs),
+Programmable Array Logic (PAL) devices.
+Introduction to Sequential Circuit Elements: Latch, Various types of Flip-Flops and
+their Excitation Tables.
+        </item>
+        <item>
+Models of Sequential Circuits: Moore Machine and Mealy Machine, Analysis of
+Sequential Circuits-State Table and State Transition Diagrams. Design of Sequential
+Circuits-Counters. Moore and Mealy State Graphs for Sequence Detection, Methods for
+Reduction of State Tables and State Assignments.
+        </item>
+        <item>
+M Morris Mano and Michael D Ciletti, Digital Design, Prentice Hall of India,
+Fourth Edition, 2008.
+2. Zvi Kohavi, Switching and Finite Automata Theory, Tata McGraw Hill,
+        </item>
+
+    </string-array>
+
+    <string-array name="EnvironmentalSciences">
+        <item>
+            Environmental Studies: Definition, scope and importance, need for public awareness.
+Natural resources: Water resources; use and over-utilization of surface and ground water,
+floods, drought, conflicts over water, dams:benefits and problems. Effects of modern
+agriculture, fertilizer- pesticide problems, water logging and salinity.
+        </item>
+        <item>
+Ecosystems: Concept of an ecosystem, structure and function of an ecosystem, producers,
+consumers and decomposers, energy flow in ecosystem, food chains, ecological pyramids,
+aquatic ecosystem (ponds, streams, lakes, rivers, oceans, estuaries).
+Energy resources: Growing energy needs, renewable and non-renewable energy sources.
+Land Resources, land as a resource, land degradation, soil erosion and desertification.
+        </item>
+        <item>
+Biodiversity: Genetic species and ecosystem diversity, bio-geographical classification of
+India. Value of biodiversity, threats to biodiversity, endangered and endemic species of
+India, conservation of biodiversity.
+        </item>
+        <item>
+Environmental Pollution: Causes, effects and control measures of air pollution, water
+pollution, soil pollution, noise pollution, thermal pollution; solid and liquid waste
+management.
+Environment Protection Act: Air, water, forest and wild life Acts, enforcement of
+environmental legislation.
+        </item>
+        <item>
+Social Issues and the Environment: Water conservation, watershed management, and
+environmental ethics. Climate change, global warming, acid rain, ozone layer depletion.
+Environmental Disaster Management: Types of disasters, impact of disasters on
+environment, infrastructure, and development. Basic principles of disaster mitigation,
+disaster management, and methodology. Disaster management cycle, and disaster
+management in India.
+        </item>
+        <item>
+A.K. De, Environmental Chemistry, Wiley Eastern Ltd.
+2. E.P. Odum, Fundamentals of Ecology, W.B. Sunders Co., USA.
+3. M.N. Rao and A.K. Datta , Waste Water Treatment, Oxford and IBK Publications.
+4. Benny Joseph, Environmental Studies, Tata McGraw Hill, 2005.
+5. V.K. Sharma, Disaster Management, National Centre for Disaster Management,
+        </item>
+
+    </string-array>
+    <string-array name="titles">
+        <item>Unit1</item>
+        <item>Unit2</item>
+        <item>Unit3</item>
+        <item>Unit4</item>
+        <item>Unit5</item>
+        <item>Books</item>
+    </string-array>
+    <string-array name="faculty_name">
+        <item>Dr Shabbeer</item>
+        <item>Mohiuddin</item>
+        <item>Maniza Hijab</item>
+        <item>Krishna Keerthi</item>
+        <item>Manjusha</item>
+        <item>Amanullah</item>
+    </string-array>
+
+    <string-array name="DrShabbeer">
+        <item>965324187</item>
+        <item>shabbeeer45@gmail.com</item>
+        <item>CSE Block 5th Floor R.No:5506</item>
+    </string-array>
+    <string-array name="Mohiuddin">
+        <item>965324186</item>
+        <item>mohiuddin45@gmail.com</item>
+        <item>CSE Block 4th Floor R.No:5505</item>
+    </string-array>
+    <string-array name="ManizaHijab">
+        <item>965324185</item>
+        <item>maniza45@gmail.com</item>
+        <item>CSE Block 3th Floor R.No:5506</item>
+    </string-array>
+    <string-array name="KrishnaKeerthi">
+        <item>965324184</item>
+        <item>krishna45@gmail.com</item>
+        <item>CSE Block 2th Floor R.No:5506</item>
+    </string-array>
+    <string-array name="Manjusha">
+        <item>965324183</item>
+        <item>manjusha45@gmail.com</item>
+        <item>CSE Block 1st Floor R.No:5506</item>
+    </string-array>
+    <string-array name="Amanullah">
+        <item>965324182</item>
+        <item>amanullah45@gmail.com</item>
+        <item>CSE Block 0th Floor R.No:5506</item>
+    </string-array>
+
+
+</resources>
